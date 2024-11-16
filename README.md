@@ -1,10 +1,9 @@
-# Selamat datang di GitHub Saya 🎉
-
 ## 👋 Tentang Saya
-Hi there! Saya **[Nama Anda]**, seorang developer yang gemar mempelajari hal-hal baru dalam dunia teknologi.
+Hi there! Saya **Muhammad Rizal Nur Firdaus**, seorang developer yang gemar mempelajari hal-hal baru dalam dunia teknologi.
 
 - 🌱 Saat ini saya sedang mendalami **pengembangan web dan pemrograman tingkat lanjut**.
-- 📫 Cara menghubungi saya: [LinkedIn](#) | [Twitter](#) | [Email](#)
+- 📫 Cara menghubungi saya: [LinkedIn](#) | [Instagram](https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==) | [Email](mailto:muhammadrizalnurfirdaus@gmain.com)
+
 
 ---
 
